@@ -1,0 +1,136 @@
+{
+  "navigation": {
+    "home": "Startseite",
+    "ausbildung": "Ausbildung",
+    "languageHub": "Sprachzentrum",
+    "community": "Community",
+    "profile": "Profil",
+    "dashboard": "Dashboard",
+    "login": "Anmelden",
+    "logout": "Abmelden",
+    "getStarted": "Loslegen",
+    "languageSwitcher": "Sprache"
+  },
+  "home": {
+    "title": "Dein Tor zu einer Karriere in <brand>Deutschland</brand>",
+    "description": "Entdecke Ausbildungsmöglichkeiten, lerne Deutsch und trete einer Community bei, die deinen Umzugsweg unterstützt.",
+    "exploreAusbildung": "Ausbildung erkunden",
+    "learnGerman": "Deutsch lernen",
+    "features": {
+      "title": "So unterstützen wir dich auf deinem Weg",
+      "feature1": {
+        "title": "Ausbildungsverzeichnis",
+        "description": "Finde Ausbildungsplätze in IT, Pflege, Technik und mehr. Vergleiche Anforderungen und Visumspfade."
+      },
+      "feature2": {
+        "title": "Sprachzentrum",
+        "description": "Zugang zu kostenlosen Ressourcen für die Deutsch-Niveaus A1-B2. Vorbereitung auf Goethe- und TELC-Prüfungen für Visa."
+      },
+      "feature3": {
+        "title": "Community & Kontakte",
+        "description": "Diskutiere in Foren über Bürokratie, Wohnen und Leben in Deutschland. Knüpfe Kontakte zu aktuellen Auszubildenden."
+      }
+    },
+    "roadmap": {
+      "title": "Der schrittweise Umzugsplan",
+      "description": "Von deinen ersten deutschen Wörtern bis zur Visumstermin in der Botschaft. Unser interaktiver Plan verfolgt deinen Fortschritt.",
+      "startRoadmap": "Starte deinen Plan"
+    },
+    "footer": "© {year} Germany Gateway. Wir bauen globale Brücken."
+  },
+  "ausbildung": {
+    "title": "Ausbildungsverzeichnis",
+    "description": "Erkunde Ausbildungswege in Deutschland. Erfahre mehr über Sprachvoraussetzungen, durchschnittliche Ausbildungsgehälter und Karriereaussichten.",
+    "searchPlaceholder": "Suche nach Ausbildungen (z.B. IT, Pflege...)",
+    "popularPathways": "Beliebte Ausbildungswege",
+    "noResults": "Keine Ausbildungen passend zur Suche gefunden.",
+    "reqs": "Voraussetzung",
+    "perMonth": "/Monat",
+    "viewRequirements": "Alle Voraussetzungen anzeigen",
+    "roadmap": {
+      "title": "Dein Plan",
+      "step1": "Deutschvorbereitung",
+      "step1Desc": "Erreiche das B1/B2-Niveau und erhalte ein Zertifikat.",
+      "step2": "Dokumentenübersetzung",
+      "step2Desc": "Diplome ins Deutsche übersetzen lassen.",
+      "step3": "Bewerbung & Vorstellungsgespräch",
+      "step3Desc": "Lebenslauf senden, Online-Interviews bestehen.",
+      "step4": "Visumstermin",
+      "step4Desc": "Visum für Ausbildung/Arbeitssuchende beantragen.",
+      "saveProgress": "Fortschritt speichern & verfolgen"
+    }
+  },
+  "languageHub": {
+    "title": "Deutsches Sprachzentrum",
+    "description": "Alles, was du brauchst, um Deutsch für deine Ausbildung zu lernen. Nach CEFR-Niveau sortierte Ressourcen von den ersten Wörtern bis zum Prüfungstag.",
+    "level": "Level {level}",
+    "videoCourses": "Videokurse",
+    "examPrep": "Goethe/TELC Vorbereitung",
+    "startWatching": "Jetzt anschauen",
+    "goToChannel": "Zum Kanal",
+    "downloadPDFs": "PDFs herunterladen",
+    "getFlashcards": "Karteikarten erhalten"
+  },
+  "community": {
+    "title": "Community-Forum",
+    "description": "Vernetze dich, stelle Fragen und teile deine Erfahrungen.",
+    "newDiscussion": "Neue Diskussion",
+    "tabs": {
+      "all": "Alle",
+      "ausbildung": "Ausbildung",
+      "visa": "Visum & Bürokratie",
+      "housing": "Wohnen",
+      "languagePractice": "Sprachpraxis"
+    },
+    "postedBy": "Gepostet von {author}",
+    "comments": "Kommentare"
+  },
+  "auth": {
+    "welcomeBack": "Willkommen zurück!",
+    "createAccount": "Konto erstellen",
+    "continueGoogle": "Mit Google fortfahren",
+    "continueFacebook": "Mit Facebook fortfahren",
+    "orContinueEmail": "Oder mit E-Mail fortfahren",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "signIn": "Anmelden",
+    "signUp": "Registrieren",
+    "dontHaveAccount": "Noch kein Konto? ",
+    "alreadyHaveAccount": "Bereits ein Konto? "
+  },
+  "profile": {
+    "mustLogin": "Du musst eingeloggt sein, um dein Profil anzuzeigen.",
+    "fullName": "Vollständiger Name",
+    "role": "Rolle",
+    "currentCountry": "Aktuelles Land",
+    "targetAusbildung": "Angestrebter Ausbildungsbereich",
+    "targetLanguageLevel": "Aktuelles/angestrebtes Deutsch-Niveau",
+    "shortBio": "Kurze Biografie",
+    "resume": "Lebenslauf / CV (PDF)",
+    "clickToUpload": "Klicken, um deinen Lebenslauf hochzuladen",
+    "saveProfile": "Profil speichern",
+    "saving": "Wird gespeichert...",
+    "profileUpdated": "Profil aktualisiert!",
+    "errorUpdating": "Fehler beim Aktualisieren des Profils",
+    "roleOptions": {
+      "applicant": "Bewerber",
+      "student": "Student in Deutschland / Mentor"
+    },
+    "languageLevels": {
+      "a1": "A1",
+      "a2": "A2",
+      "b1": "B1",
+      "b2": "B2",
+      "c1": "C1",
+      "native": "Muttersprache"
+    }
+  },
+  "common": {
+    "save": "Speichern",
+    "cancel": "Abbrechen",
+    "close": "Schließen",
+    "loading": "Laden...",
+    "error": "Fehler",
+    "success": "Erfolg"
+  }
+}

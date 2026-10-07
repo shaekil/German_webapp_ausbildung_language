@@ -1,0 +1,136 @@
+{
+  "navigation": {
+    "home": "Home",
+    "ausbildung": "Ausbildung",
+    "languageHub": "Language Hub",
+    "community": "Community",
+    "profile": "Profile",
+    "dashboard": "Dashboard",
+    "login": "Log in",
+    "logout": "Sign Out",
+    "getStarted": "Get Started",
+    "languageSwitcher": "Language"
+  },
+  "home": {
+    "title": "Your Gateway to a Career in <brand>Germany</brand>",
+    "description": "Discover Ausbildung opportunities, master the German language, and connect with a community that supports your relocation journey.",
+    "exploreAusbildung": "Explore Ausbildung",
+    "learnGerman": "Learn German",
+    "features": {
+      "title": "How We Support Your Journey",
+      "feature1": {
+        "title": "Ausbildung Directory",
+        "description": "Find vocational training opportunities in IT, Nursing, Engineering, and more. Compare requirements and visa paths."
+      },
+      "feature2": {
+        "title": "Language Hub",
+        "description": "Access free resources for A1-B2 German levels. Prep for Goethe and TELC exams required for visas."
+      },
+      "feature3": {
+        "title": "Community & Connect",
+        "description": "Join forums to discuss bureaucracy, housing, and life in Germany. Form connections with current students."
+      }
+    },
+    "roadmap": {
+      "title": "The Step-by-Step Relocation Roadmap",
+      "description": "From learning your first German words to arriving at the Embassy for your visa. Our interactive roadmap tracks your progress.",
+      "startRoadmap": "Start Your Roadmap"
+    },
+    "footer": "© {year} Germany Gateway. Building global bridges."
+  },
+  "ausbildung": {
+    "title": "Ausbildung Directory",
+    "description": "Explore vocational training pathways in Germany. Learn about language requirements, average training salaries, and career prospects.",
+    "searchPlaceholder": "Search pathways (e.g. IT, Nursing...)",
+    "popularPathways": "Popular Pathways",
+    "noResults": "No pathways found matching your search.",
+    "reqs": "Req.",
+    "perMonth": "/mo",
+    "viewRequirements": "View full requirements",
+    "roadmap": {
+      "title": "Your Roadmap",
+      "step1": "German Language Prep",
+      "step1Desc": "Reach B1/B2 level and get certified.",
+      "step2": "Document Translation",
+      "step2Desc": "Translate diplomas to German.",
+      "step3": "Apply & Interview",
+      "step3Desc": "Send CVs, pass online interviews.",
+      "step4": "Visa Appointment",
+      "step4Desc": "Apply for Ausbildung/Job-seeker visa.",
+      "saveProgress": "Save & Track Progress"
+    }
+  },
+  "languageHub": {
+    "title": "German Language Hub",
+    "description": "Everything you need to master German for your Ausbildung. Resources curated by CEFR level, from your first words to exam day.",
+    "level": "Level {level}",
+    "videoCourses": "Video Courses",
+    "examPrep": "Goethe/TELC Prep",
+    "startWatching": "Start watching",
+    "goToChannel": "Go to channel",
+    "downloadPDFs": "Download PDFs",
+    "getFlashcards": "Get Flashcards"
+  },
+  "community": {
+    "title": "Community Forum",
+    "description": "Connect, ask questions, and share your experiences.",
+    "newDiscussion": "New Discussion",
+    "tabs": {
+      "all": "All",
+      "ausbildung": "Ausbildung",
+      "visa": "Visa & Bureaucracy",
+      "housing": "Housing",
+      "languagePractice": "Language Practice"
+    },
+    "postedBy": "Posted by {author}",
+    "comments": "comments"
+  },
+  "auth": {
+    "welcomeBack": "Welcome back!",
+    "createAccount": "Create an account",
+    "continueGoogle": "Continue with Google",
+    "continueFacebook": "Continue with Facebook",
+    "orContinueEmail": "Or continue with email",
+    "email": "Email",
+    "password": "Password",
+    "signIn": "Sign In",
+    "signUp": "Sign Up",
+    "dontHaveAccount": "Don't have an account? ",
+    "alreadyHaveAccount": "Already have an account? "
+  },
+  "profile": {
+    "mustLogin": "You must be logged in to view your profile.",
+    "fullName": "Full Name",
+    "role": "Role",
+    "currentCountry": "Current Country",
+    "targetAusbildung": "Target Ausbildung Field",
+    "targetLanguageLevel": "Current/Target German Level",
+    "shortBio": "Short Bio",
+    "resume": "Resume / CV (PDF)",
+    "clickToUpload": "Click to upload your CV",
+    "saveProfile": "Save Profile",
+    "saving": "Saving...",
+    "profileUpdated": "Profile updated!",
+    "errorUpdating": "Error updating profile",
+    "roleOptions": {
+      "applicant": "Applicant",
+      "student": "Student in Germany / Mentor"
+    },
+    "languageLevels": {
+      "a1": "A1",
+      "a2": "A2",
+      "b1": "B1",
+      "b2": "B2",
+      "c1": "C1",
+      "native": "Native"
+    }
+  },
+  "common": {
+    "save": "Save",
+    "cancel": "Cancel",
+    "close": "Close",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success"
+  }
+}
